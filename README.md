@@ -22,7 +22,7 @@ along the length of the membrane.
 
 ## Analysis Methods
 
-### Analytical Solution
+### 1. Analytical Solution
 
 The analytical solution explores the mechanical behavior of the Basilar membrane using Neely parameters, including mass, damping, and stiffness. The simulation calculates the displacement of each point on the membrane in response to a given input frequency. The results are visualized to understand the membrane's behavior over distance.
 
@@ -37,8 +37,8 @@ The analytical solution explores the mechanical behavior of the Basilar membrane
   <img src="Resources/analytical.png" alt="Local Image" width="600" style="margin: 10px;">
 </div>
 
-
-### Resonance Analysis
+---
+### 2. Resonance Analysis
 
 The resonance analysis explores the resonance behavior of specific point on the membrane by calculating the amplitude of displacement in response to a single input tone across a range of frequencies. This analysis helps identify resonant frequencies and understand the system's behavior under different frequency inputs.
 
@@ -52,6 +52,8 @@ The resonance analysis explores the resonance behavior of specific point on the 
 <div align = "center">
 <img src="Resources/Resonance.png" alt="Local Image" width="400" style="margin: 10px;">
 </div>
+
+---
 
 ### Power Analysis
 
