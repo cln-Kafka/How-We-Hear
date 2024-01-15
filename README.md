@@ -74,7 +74,7 @@ The power analysis investigates the average power dissipated in the system. Util
 1. Clone the repository:
 
     ```bash
-    git clone https://github.com/hearing-model.git
+    git clone git@github.com:joyou159/How-We-Hear.git
     cd Cochlea_Source_Code
     ```
 
