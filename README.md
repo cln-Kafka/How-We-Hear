@@ -98,13 +98,13 @@ Gratitude goes out to all team members for their valuable contributions to this 
   <a href="https://github.com/joyou159">
     <img src="https://github.com/joyou159.png" width="100px" alt="@joyou159">
   </a>
-  <a href="https://github.com/MohamedSayedDiab">
+  <a href="https://github.com/cln-Kafka">
     <img src="https://avatars.githubusercontent.com/u/100665578?v=4" width="100px" alt="@Kareem Noureddine">
   </a>
   <a href="https://github.com/hagersamir">
     <img src="https://github.com/hagersamir.png" width="100px" alt="@hagersamir">
   </a>
-  <a href="https://github.com/Medo072">
+  <a href="https://github.com/1MuhammadSami1">
     <img src="https://avatars.githubusercontent.com/u/139786587?v=4" width="100px" alt="@M.Sami">
   </a>
 </div>
