@@ -33,8 +33,8 @@ The analytical solution explores the mechanical behavior of the Basilar membrane
 
 #### Sample Output
 
-<div style="text-align: center;">
-  <img src="Resources/analytical.png" alt="Local Image" width="400" style="margin: 10px;">
+<div align = "center">
+  <img src="Resources/analytical.png" alt="Local Image" width="600" style="margin: 10px;">
 </div>
 
 
@@ -44,12 +44,12 @@ The resonance analysis explores the resonance behavior of specific point on the 
 
 #### Usage
 
-1. Set the distance point of examination and range of frequency of concern.
+1. Set the distance point of examination and range of frequency of interest.
 2. Run the script to obtain the amplitude of displacement over a range of frequencies.
 
 #### Sample Output (multiple outputs together)
 
-<div style="text-align: center;">
+<div align = "center">
 <img src="Resources/Resonance.png" alt="Local Image" width="400" style="margin: 10px;">
 </div>
 
@@ -59,11 +59,11 @@ The power analysis investigates the average power dissipated in the system. Util
 
 #### Usage
 
-1. Set the distance point of examination and range of frequency of concern.
+1. Set the distance point of examination and range of frequency of interest.
 2. Run the script to obtain the amplitude of displacement over a range of frequencies.
 
 #### Sample Output (multiple outputs together)
-<div style="text-align: center;">
+<div align = "center">
 <img src="Resources/Power.png" alt="Local Image" width="400" style="margin: 10px;">
 </div>
 
