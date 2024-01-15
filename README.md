@@ -33,9 +33,8 @@ The analytical solution explores the mechanical behavior of the Basilar membrane
 
 #### Sample Output
 
-<div style="text-align: center;">
-  <img src="Resources/analytical.png" alt="Local Image" width="400" style="margin: 10px;">
-</div>
+<img src="Resources/analytical.png" alt="Local Image" width="400" align="center" style="margin: 10px;">
+
 
 
 ### Resonance Analysis
