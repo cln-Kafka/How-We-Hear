@@ -28,7 +28,7 @@ The analytical solution explores the mechanical behavior of the Basilar membrane
 
 #### Usage
 
-1. set the input frequency tone of examination.
+1. Set the input frequency tone of examination.
 2. Run the script to obtain the displacement profile.
 
 #### Sample Output
