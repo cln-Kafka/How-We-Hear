@@ -104,8 +104,8 @@ Gratitude goes out to all team members for their valuable contributions to this 
   <a href="https://github.com/hagersamir">
     <img src="https://github.com/hagersamir.png" width="100px" alt="@hagersamir">
   </a>
-  <a href="https://github.com/1MuhammadSami1">
-    <img src="https://avatars.githubusercontent.com/u/139786587?v=4" width="100px" alt="@M.Sami">
+  <a href="https://github.com/MuhammadSamiAhmad">
+    <img src="https://avatars.githubusercontent.com/u/101589634?v=4" width="100px" alt="@M.Sami">
   </a>
 </div>
 
