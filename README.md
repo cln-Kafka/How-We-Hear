@@ -117,3 +117,9 @@ Gratitude goes out to all team members for their valuable contributions to this 
     <img src="https://imgur.com/Wk4nR0m.png" alt="Cairo University Logo" width="100" style="border-radius: 50%;"/>
 </div>
 
+## References
+
+1. M. Jimenez-Hernandez, J.L. Oropeza-Rodriguez, S. Suarez Guerra, R. Barron-Fernandez. "Computational Model of the Cochlea using Resonance Analysis." Centro de Investigación en Computación, Instituto Politécnico Nacional, Mexico D.F.
+
+2. M. Jiménez-Hernández. "Power Analysis of the Basilar Membrane in the Cochlea by Mechanical Resonance." Escuela Superior de Ingeniería Mecánica y Eléctrica, Instituto Politécnico Nacional, Ciudad de México, México.
+
